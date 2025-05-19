@@ -1,0 +1,11 @@
+Web development:
+	HTML:
+	CSS:
+	Java Script:
+React:
+--> 
+Software Engineering:
+--> 
+SQL:
+Node Js:
+Angular
